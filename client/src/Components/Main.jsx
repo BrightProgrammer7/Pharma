@@ -26,7 +26,7 @@ const gardeData = [
   { value: "nuit", label: "Nuit" },
 ];
 
-const URL = "http://127.0.0.1:9000";
+const URL = "https://pharma.cyclic.app";
 
 const defaultCity = { value: "city", label: "Select City" };
 const defaultZone = { value: "zone", label: "Select City" };
